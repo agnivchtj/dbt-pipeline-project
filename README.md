@@ -1,6 +1,6 @@
-# Building an ETL pipeline with DBT Core and Snowflake
+# Building an ELT pipeline with DBT Core and Snowflake
 
-In this project we are building a ETL pipeline using DBT and Snowflake. The main objective is to load data from a source (i.e. TPCH_SF1 dataset) from Snowflake and perform some basic data modeling techniques, such as building data marts, fact tables, macros and tests.
+In this project we are building a ELT pipeline using DBT and Snowflake. The main objective is to load data from a source (i.e. TPCH_SF1 dataset) from Snowflake and perform some basic data modelling techniques, such as building data marts, fact tables, macros and tests.
 
 ## Project setup
 
